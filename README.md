@@ -19,7 +19,7 @@ Files contained:
 
 This project contains the following files
 
-My involvement was to solely write the main.py file.
+    My involvement was to solely write the main.py file.
 
 - "main.py"
 - "data_plot.py"
