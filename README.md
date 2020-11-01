@@ -19,6 +19,7 @@ Files contained:
 
 This project contains the following files
 
+My involvement was to solely write the main.py file.
 
 - "main.py"
 - "data_plot.py"
@@ -26,7 +27,6 @@ This project contains the following files
 - "ac_p.csv"
 - "ac_q.csv"
 - "data.csv"
-
 
 How to run this project
 
@@ -36,4 +36,4 @@ Download the project files into one source folder
 Open and run "main.py"
 This will produce all figures seen in project reports
 
-My involvement was to solely write the main.py file.
+
