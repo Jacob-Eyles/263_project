@@ -21,7 +21,6 @@ This project contains the following files
 
 
 - "main.py"
-- "Unit_Test.py"
 - "data_plot.py"
 - "ac_cu.csv"
 - "ac_p.csv"
@@ -36,3 +35,5 @@ Install relevant environments and packages (specified in main.py)
 Download the project files into one source folder
 Open and run "main.py"
 This will produce all figures seen in project reports
+
+My involvement was to solely write the main.py file.
